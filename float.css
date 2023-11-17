@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+div{ 
+    border: rgb(231, 8, 8) solid 2px;
+    margin: 28px;
+}
+#um {float: left;
+    background-color: darkolivegreen;
+width: 20%;
+height: 400px;}
+
+    #dois {background-color: olivedrab;
+        float: right;
+    width: 20%;
+height: 400px;}
+    #tres {background-color: bisque;
+    float: left;
+width: 20%;
+height: 400px;}
+    
+    #quatro {background-color: darkgreen;
+    float: left;
+width: 20%;
+height: 400px;}
+
+
+
