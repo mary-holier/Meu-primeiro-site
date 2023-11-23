@@ -15,14 +15,17 @@ body {
     display: flex;
 }
 #mapa{
-    width: 150px;
+    width: 250px;
     margin-right: 30px;
 }
 h1{
     padding-top: 2%;
     font-size: 60px;
-    color: papayawhip;
+    color: papayawhip;}
+    #objetivos{ width: 500px;}
+
     
+
 
 p{font-size: 40px;}
 h2{font-size: 30px;
@@ -39,9 +42,30 @@ h3{font-size: 30px;
 padding-top: 2%;
 color: darkgreen;}
 
-p{font-size: 18px;
+p{font-size: 22px;
 padding-top: 1px;}
 
+h4{font-size: 60px;
+    padding-top: 2%;
+    color: beige;}
 
+    h5{font-size: 30px;
+        padding-top: 2%;
+        color: darkgreen;}
+        
+        #canastra{ width: 600px;}
+
+        h6{font-size: 30px;
+            padding-top: 2%;
+            color: darkgreen;}
+            #mariany{ width: 400px;}
+
+            h7{font-size: 40px;
+                padding-top: 2%;
+                color: darkgreen; }
+                
+                h8{font-size: 40px;
+                    padding-top: 2%;
+                    color: darkgreen; }
 
  
